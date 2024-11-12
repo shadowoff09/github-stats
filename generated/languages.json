@@ -2,126 +2,126 @@
     "Python": {
         "size": 13265057,
         "color": "#3572A5",
-        "percentage": 65.41931901863848
+        "percentage": 65.41595740095653
     },
     "TypeScript": {
-        "size": 3448564,
+        "size": 3449606,
         "color": "#3178c6",
-        "percentage": 17.00729280486258
+        "percentage": 17.01155744344589
     },
     "JavaScript": {
         "size": 718824,
         "color": "#f1e05a",
-        "percentage": 3.5450263481154876
+        "percentage": 3.5448441844452816
     },
     "PHP": {
         "size": 680052,
         "color": "#4F5D95",
-        "percentage": 3.3538143663659445
+        "percentage": 3.3536420282577963
     },
     "CSS": {
         "size": 410552,
         "color": "#563d7c",
-        "percentage": 2.0247204562890357
+        "percentage": 2.0246164146054935
     },
     "Blade": {
         "size": 330096,
         "color": "#f7523f",
-        "percentage": 1.62793537417717
+        "percentage": 1.6278517215739177
     },
     "SCSS": {
         "size": 314477,
         "color": "#c6538c",
-        "percentage": 1.5509071078265533
+        "percentage": 1.5508274133748996
     },
     "Cython": {
         "size": 161210,
         "color": "#fedf5b",
-        "percentage": 0.7950398116641875
+        "percentage": 0.7949989579847414
     },
     "C": {
         "size": 158783,
         "color": "#555555",
-        "percentage": 0.7830705689192646
+        "percentage": 0.7830303302877688
     },
     "HTML": {
         "size": 146568,
         "color": "#e34c26",
-        "percentage": 0.7228298189690255
+        "percentage": 0.7227926758508008
     },
     "Svelte": {
         "size": 144688,
         "color": "#ff3e00",
-        "percentage": 0.7135582176668193
+        "percentage": 0.7135215509763432
     },
     "Vue": {
         "size": 141434,
         "color": "#41b883",
-        "percentage": 0.69751045668949
+        "percentage": 0.6974746146244893
     },
     "Perl": {
         "size": 113384,
         "color": "#0298c3",
-        "percentage": 0.5591761925794444
+        "percentage": 0.559147458917821
     },
     "Java": {
         "size": 60629,
         "color": "#b07219",
-        "percentage": 0.2990042102933318
+        "percentage": 0.2989888457518572
     },
     "EJS": {
         "size": 57653,
         "color": "#a91e50",
-        "percentage": 0.28432746270005205
+        "percentage": 0.2843128523335668
     },
     "C++": {
         "size": 48970,
         "color": "#f34b7d",
-        "percentage": 0.24150548711119194
+        "percentage": 0.24149307718201596
     },
     "Shell": {
         "size": 36773,
         "color": "#89e051",
-        "percentage": 0.18135350781171863
+        "percentage": 0.18134418883427145
     },
     "Astro": {
         "size": 20892,
         "color": "#ff5a03",
-        "percentage": 0.1030331353221773
+        "percentage": 0.10302784089211102
     },
     "PowerShell": {
         "size": 8834,
         "color": "#012456",
-        "percentage": 0.04356666271472881
+        "percentage": 0.04356442401114823
     },
     "Nu": {
         "size": 3265,
         "color": "#c9df40",
-        "percentage": 0.016102009708352905
+        "percentage": 0.016101182295268166
     },
     "C#": {
         "size": 2918,
         "color": "#178600",
-        "percentage": 0.014390708829701003
+        "percentage": 0.014389969353014552
     },
     "Dockerfile": {
         "size": 1836,
         "color": "#384d54",
-        "percentage": 0.009054606378112078
+        "percentage": 0.009054141100800108
     },
     "Hack": {
         "size": 833,
         "color": "#878787",
-        "percentage": 0.004108108449328627
+        "percentage": 0.004107897351288937
     },
     "Nix": {
         "size": 382,
         "color": "#7e7eff",
-        "percentage": 0.0018839104773631882
+        "percentage": 0.001883813671299369
     },
     "Fortran": {
         "size": 298,
         "color": "#4d41b1",
-        "percentage": 0.0014696474404560997
+        "percentage": 0.0014695719215895601
     }
 }
