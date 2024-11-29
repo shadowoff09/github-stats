@@ -2,126 +2,126 @@
     "Python": {
         "size": 13265057,
         "color": "#3572A5",
-        "percentage": 65.32470647098394
+        "percentage": 64.91648369986642
     },
     "TypeScript": {
         "size": 3476637,
         "color": "#3178c6",
-        "percentage": 17.12094350828362
+        "percentage": 17.013952457260643
     },
     "JavaScript": {
-        "size": 719161,
+        "size": 731560,
         "color": "#f1e05a",
-        "percentage": 3.5415589416901323
+        "percentage": 3.580105446623733
     },
     "PHP": {
         "size": 680052,
         "color": "#4F5D95",
-        "percentage": 3.3489639196428307
+        "percentage": 3.3280357990969476
     },
     "CSS": {
-        "size": 411089,
+        "size": 421908,
         "color": "#563d7c",
-        "percentage": 2.024436703019845
+        "percentage": 2.064731708641979
     },
     "Blade": {
         "size": 330096,
         "color": "#f7523f",
-        "percentage": 1.6255809761877325
+        "percentage": 1.6154225046595054
     },
     "SCSS": {
         "size": 314477,
         "color": "#c6538c",
-        "percentage": 1.548664111799566
+        "percentage": 1.538986303977653
+    },
+    "HTML": {
+        "size": 251045,
+        "color": "#e34c26",
+        "percentage": 1.2285630322156147
     },
     "Cython": {
         "size": 161210,
         "color": "#fedf5b",
-        "percentage": 0.7938899870680782
+        "percentage": 0.7889288630463832
     },
     "C": {
         "size": 158783,
         "color": "#555555",
-        "percentage": 0.7819380548144078
-    },
-    "HTML": {
-        "size": 146568,
-        "color": "#e34c26",
-        "percentage": 0.7217844279175863
+        "percentage": 0.7770516200055447
     },
     "Svelte": {
         "size": 144688,
         "color": "#ff3e00",
-        "percentage": 0.7125262356485709
+        "percentage": 0.708073564521153
     },
     "Vue": {
         "size": 141855,
         "color": "#41b883",
-        "percentage": 0.6985749278304214
+        "percentage": 0.6942094402794162
     },
     "Perl": {
         "size": 113384,
         "color": "#0298c3",
-        "percentage": 0.5583674852287512
+        "percentage": 0.5548781726174002
     },
     "Java": {
         "size": 60629,
         "color": "#b07219",
-        "percentage": 0.2985717761053937
+        "percentage": 0.29670596140214106
     },
     "EJS": {
         "size": 57653,
         "color": "#a91e50",
-        "percentage": 0.2839162547263564
+        "percentage": 0.28214202432363455
     },
     "C++": {
         "size": 48970,
         "color": "#f34b7d",
-        "percentage": 0.24115621032643006
+        "percentage": 0.2396491931231399
     },
     "Shell": {
         "size": 36773,
         "color": "#89e051",
-        "percentage": 0.18109122569601416
+        "percentage": 0.17995956256314527
     },
     "Astro": {
         "size": 20892,
         "color": "#ff5a03",
-        "percentage": 0.10288412387461257
+        "percentage": 0.10224118731322522
     },
     "PowerShell": {
         "size": 8834,
         "color": "#012456",
-        "percentage": 0.04350365452366108
+        "percentage": 0.043231794405754906
     },
     "Nu": {
         "size": 3265,
         "color": "#c9df40",
-        "percentage": 0.016078722211880624
+        "percentage": 0.015978244140229768
     },
     "C#": {
         "size": 2918,
         "color": "#178600",
-        "percentage": 0.014369896298397446
+        "percentage": 0.014280096906949606
     },
     "Dockerfile": {
         "size": 1836,
         "color": "#384d54",
-        "percentage": 0.00904151117335768
+        "percentage": 0.00898500956859475
     },
     "Hack": {
         "size": 833,
         "color": "#878787",
-        "percentage": 0.004102167106430799
+        "percentage": 0.004076532119084654
     },
     "Nix": {
         "size": 382,
         "color": "#7e7eff",
-        "percentage": 0.0018811858759382536
+        "percentage": 0.0018694300954265762
     },
     "Fortran": {
         "size": 298,
         "color": "#4d41b1",
-        "percentage": 0.0014675219660460724
+        "percentage": 0.0014583512262751825
     }
 }
