@@ -2,136 +2,136 @@
     "Python": {
         "size": 13324142,
         "color": "#3572A5",
-        "percentage": 61.76501905614099
+        "percentage": 61.763478713451335
     },
     "TypeScript": {
-        "size": 4291814,
+        "size": 4292352,
         "color": "#3178c6",
-        "percentage": 19.89501263911873
+        "percentage": 19.89701035778816
     },
     "PHP": {
         "size": 819068,
         "color": "#4F5D95",
-        "percentage": 3.796848654740793
+        "percentage": 3.796753966061692
     },
     "JavaScript": {
         "size": 760924,
         "color": "#f1e05a",
-        "percentage": 3.5273179586554266
+        "percentage": 3.527229991736372
     },
     "CSS": {
         "size": 455580,
         "color": "#663399",
-        "percentage": 2.111873873874709
+        "percentage": 2.111821206369173
     },
     "Blade": {
         "size": 330823,
         "color": "#f7523f",
-        "percentage": 1.5335538227684553
+        "percentage": 1.533515577845096
     },
     "SCSS": {
         "size": 315065,
         "color": "#c6538c",
-        "percentage": 1.4605064798110876
+        "percentage": 1.4604700565975315
     },
     "HTML": {
         "size": 304495,
         "color": "#e34c26",
-        "percentage": 1.4115084841860475
+        "percentage": 1.4114732829215093
     },
     "Cython": {
         "size": 161210,
         "color": "#fedf5b",
-        "percentage": 0.7473005557911714
+        "percentage": 0.7472819190455557
     },
     "C": {
         "size": 158783,
         "color": "#555555",
-        "percentage": 0.7360500226424512
+        "percentage": 0.7360316664711277
     },
     "Svelte": {
         "size": 144688,
         "color": "#ff3e00",
-        "percentage": 0.6707116358557969
+        "percentage": 0.670694909142506
     },
     "Vue": {
         "size": 141855,
         "color": "#41b883",
-        "percentage": 0.6575790604910156
+        "percentage": 0.6575626612878067
     },
     "Perl": {
         "size": 113384,
         "color": "#0298c3",
-        "percentage": 0.5255996911967382
+        "percentage": 0.5255865833947106
     },
     "Java": {
         "size": 61069,
         "color": "#b07219",
-        "percentage": 0.2830897440705356
+        "percentage": 0.28308268416471094
     },
     "EJS": {
         "size": 57653,
         "color": "#a91e50",
-        "percentage": 0.26725463025264196
+        "percentage": 0.2672479652548442
     },
     "C++": {
         "size": 48970,
         "color": "#f34b7d",
-        "percentage": 0.22700395891752162
+        "percentage": 0.22699829772136262
     },
     "Shell": {
         "size": 38009,
         "color": "#89e051",
-        "percentage": 0.17619345465583172
+        "percentage": 0.17618906061039968
     },
     "Astro": {
         "size": 20892,
         "color": "#ff5a03",
-        "percentage": 0.09684636940381584
+        "percentage": 0.09684395417591807
     },
     "PowerShell": {
         "size": 8834,
         "color": "#012456",
-        "percentage": 0.04095064270119229
+        "percentage": 0.04094962144313902
     },
     "Dockerfile": {
         "size": 6481,
         "color": "#384d54",
-        "percentage": 0.03004314187756704
+        "percentage": 0.03004239263900656
     },
     "Nu": {
         "size": 3265,
         "color": "#c9df40",
-        "percentage": 0.015135142451821688
+        "percentage": 0.015134765000209292
     },
     "C#": {
         "size": 2918,
         "color": "#178600",
-        "percentage": 0.013526598981444315
+        "percentage": 0.013526261644903741
     },
     "Hack": {
         "size": 833,
         "color": "#878787",
-        "percentage": 0.003861431443297846
+        "percentage": 0.003861335144004392
     },
     "Batchfile": {
         "size": 812,
         "color": "#C1F12E",
-        "percentage": 0.00376408443212227
+        "percentage": 0.0037639905605420967
     },
     "Nix": {
         "size": 382,
         "color": "#7e7eff",
-        "percentage": 0.001770788489003334
+        "percentage": 0.0017707443277427102
     },
     "Fortran": {
         "size": 298,
         "color": "#4d41b1",
-        "percentage": 0.00138140044430103
+        "percentage": 0.0013813659938935279
     },
     "Procfile": {
         "size": 64,
         "color": "#3B2F63",
-        "percentage": 0.0002966766054874696
+        "percentage": 0.0002966692067422342
     }
 }
