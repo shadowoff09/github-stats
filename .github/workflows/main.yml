@@ -4,7 +4,7 @@ on:
   push:
     branches: [ master ]
   schedule:
-    - cron: "5 0 * * *"
+    - cron: "5 0 * * *" # ainda corre todos os dias, mas só executa a cada 2
   workflow_dispatch:
 
 permissions:
@@ -15,25 +15,37 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    # Check out repository under $GITHUB_WORKSPACE, so the job can access it
-    - uses: actions/checkout@v3
+    - name: Check if today should run
+      id: check
+      run: |
+        if [ $(( ($(date +%s) / 86400) % 2 )) -ne 0 ]; then
+          echo "run=false" >> $GITHUB_OUTPUT
+          echo "Skipping - Not a scheduled day"
+        else
+          echo "run=true" >> $GITHUB_OUTPUT
+          echo "Running - Today is a scheduled execution day"
+      shell: bash
 
-    # Run using Python 3.8 for consistency and aiohttp
+    - name: Checkout repository
+      if: steps.check.outputs.run == 'true'
+      uses: actions/checkout@v3
+
     - name: Set up Python 3.8
+      if: steps.check.outputs.run == 'true'
       uses: actions/setup-python@v4
       with:
         python-version: '3.8'
         architecture: 'x64'
         cache: 'pip'
 
-    # Install dependencies with `pip`
     - name: Install requirements
+      if: steps.check.outputs.run == 'true'
       run: |
         python3 -m pip install --upgrade pip setuptools wheel
         python3 -m pip install -r requirements.txt
 
-    # Generate all statistics images
     - name: Generate images
+      if: steps.check.outputs.run == 'true'
       run: |
         python3 --version
         python3 generate_images.py
@@ -44,12 +56,11 @@ jobs:
         EXCLUDED_LANGS: ${{ secrets.EXCLUDED_LANGS }}
         EXCLUDE_FORKED_REPOS: true
 
-    # Commit all changed files to the repository
     - name: Commit to the repo
+      if: steps.check.outputs.run == 'true'
       run: |
         git config --global user.name "shadowoff09/github-stats"
         git config --global user.email "shadowdev.sys@gmail.com"
         git add .
-        # Force the build to succeed, even if no files were changed
         git commit -m 'Update stats' || true
         git push
